@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3 align="center">🍎 About Me</h3>
 
-- 🐝 Computer Science Student at Georgia Institute of Technology specializing in Artificial Intelligence and Information Internetworks
+- 🐝 Computer Science Student at Georgia Institute of Technology
+- 🔬 Software Engineering Intern at [Truist Financial](https://www.truist.com/)
 
