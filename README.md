@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello
+- 🐝 Computer Science Student at Georgia Institute of Technology specializing in Artificial Intelligence and Information Internetworks
+
