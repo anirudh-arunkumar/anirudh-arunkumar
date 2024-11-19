@@ -1,4 +1,5 @@
-## Hi there, I'm Anirudh 👋
+
+<h3 align="center">Hi there, I'm Anirudh 👋</h3>
 
 <!--
 **anirudh-arunkumar/anirudh-arunkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">About Me</h3>
 
 - 🐝 Computer Science Student at Georgia Institute of Technology
 - 🔬 Software Engineering Intern at [Truist Financial](https://www.truist.com/)
-
+- 🌱 I’m currently learning how to develop algorithmic trading tools and also configuring machine learning models
