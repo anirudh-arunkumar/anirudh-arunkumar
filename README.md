@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 - 🐝 Computer Science Student at Georgia Institute of Technology
 - 🔬 Software Engineering Intern at [Truist Financial](https://www.truist.com/)
-- 🌱 I’m currently learning how to develop algorithmic trading tools and also configuring machine learning models
+- 🌱 I’m currently learning how to develop algorithmic trading tools and also configure machine learning models
