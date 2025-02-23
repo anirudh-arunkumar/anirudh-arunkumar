@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 
 - 🐝 I'm a Computer Science Student at Georgia Institute of Technology
 - 🔬 I'm a Software Engineering Intern at [Truist Bank](https://www.truist.com/)
-- 🌱 I’m currently learning how to develop highly performant software
 - 🔭 I'm interested in Machine Learning, NLP, Cloud Computing, and Finance
