@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 -->
 
 - 🐝 Computer Science Student at Georgia Institute of Technology
-- 🔬 Software Engineering Intern at [Truist Bank](https://www.truist.com/)
+- 🔬 Software Engineer Intern at [Truist Bank](https://www.truist.com/)
 - 🔭 Interested in Machine Learning, NLP, Cloud Computing, and Finance
